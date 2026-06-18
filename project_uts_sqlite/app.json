@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "uts",
+    "slug": "snack-dfe68e23-0942-4e66-9d61-c8a8561adefc",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.ahmad_firdaus.snackdfe68e2309424e669d61c8a8561adefc"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "99b89796-c277-4649-8e0d-0e7e21622f6e"
+      }
+    },
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}
